@@ -35,8 +35,7 @@ On the first line, one integer `T`.
 #### Input
 
 ```
-1
-4
+1 4
 ```
 
 #### Output
@@ -57,9 +56,7 @@ The following partitions are valid for this: `[1, 3]` and `[4]`. Therefore, we o
 #### Input
 
 ```
-2
-4
-5
+2 4 5
 ```
 
 #### Output
